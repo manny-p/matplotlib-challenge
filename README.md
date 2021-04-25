@@ -1,6 +1,6 @@
 # matplotlib-challenge
 
-Analyze drug trial data to determine the efficacy of a new treatmenta
+Analyze drug trial data to determine the efficacy of a new treatments
 
 
 ## Process 
